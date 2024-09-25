@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.22/win64" 1727268586
+<REAPER_PROJECT 0.1 "7.22/win64" 1727268551
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,8 +18,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 98.05041108803424 0 0
+  CURSOR 1
+  ZOOM 194.25807980251466 0 0
   VZOOMEX 5.625 0
   USE_REC_CFG 0
   RECMODE 1
@@ -66,8 +66,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 10 10
-  SELECTION2 10 10
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -112,7 +112,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -123,5 +123,73 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A682E38A-A984-409E-B526-24703C89AD1F}
+      IID 1
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84ED6161-107B-47C5-875B-0B17313EE3B1}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 120
+        BPI 4 4
+        VOL 0.5 0.25
+        BEATLEN 4
+        FREQ 1760 880 1
+        SAMPLES "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
+        MULT 1
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA06A847-7FD5-467C-9268-14D1381563BE}
+      IID 1
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C729945-39EE-448E-A267-88381C0C4B72}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 120
+        BPI 4 4
+        VOL 0.5 0.25
+        BEATLEN 4
+        FREQ 1760 880 1
+        SAMPLES "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
+        MULT 1
+      >
+    >
   >
 >
