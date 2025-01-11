@@ -1,0 +1,1054 @@
+<REAPER_PROJECT 0.1 "7.28/win64" 1734769665
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 8.57142857142857
+  ZOOM 9.13579078940044 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 1
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "D:\ReaperProjects\RENDERED\troikapridurkovv.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.507619 0.096183
+    BEATLEN 4
+    FREQ 800 1600 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 140 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 8.57142857142857 8.57142857142857
+  SELECTION2 8.57142857142857 8.57142857142857
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {C5AAF252-1E6C-47DE-88A5-BBA95A9F4602}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {952EF8C7-7338-46BC-9CEB-D75FF07AAD5B}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 286.28571428571428 начало 0 0 1 R {F082185D-BE86-4BAD-80D3-63FED6A829B1} 0
+  MARKER 2 405.85714285714283 начало 0 21036800 1 R {8ABD3FD1-E67F-4A89-A5A6-9FA484C17C5B} 0
+  <PROJBAY
+  >
+  <TRACK {7E8AB725-28C4-467E-9883-296FD44CCE2E}
+    NAME YNGW
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {7E8AB725-28C4-467E-9883-296FD44CCE2E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT -269 206 977 566
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: Guitar Rig 5 (x86) (Native Instruments GmbH)" "Guitar Rig 5.dll" 0 "" 1315522357<5653544E694735677569746172726967> ""
+        NUdpTu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAN0PAAABAAAA//8QAA==
+        LWluLQIAAAAjTkkjQ1MjRG9jdW1lbnQjI05JI1NvdW5kU2hlbGwjU291bmQjAAAAAAAAAAAAAABFAQAAYXRhZAIAAABkbnNzYmlsehYAAAAQAAAAeNpjYmBg0PX00zV1
+        z/QDMhkAEaUCJ2F0YWQCAAAAb2ZuaWJpbHrvAAAA/gEAAHjafZFBT8MgGIbv/RWE+6QmOxhD2UW3k8ky9WQ8sO7rQmw/GvhY9N8L7cZqo954H54XPoJcfXYtO4HzxmLF
+        b29KzgBrezB4rPjry3pxx5knjQfdWoSKo+VspQrpbcAoNfZaXpYlV0XBmOyd7cGRAa9ijAB1B+rtOUT6YDy9SzGQ5IqpnMBe48ell9ZqEwxpx3bmyJZSDGgonsW0rm3X
+        x/GQLsUMZu0r/89jW2dn7iSe79REzuwD5UdmMOZITroNoB6bBmqSYkyjK2byn+Wnrx/FyIMHt/BAare9FyLtZ/Lb2ZOYBpci/5wqvgHWHZ8xYXRhZAIAAAB0c3JwYmls
+        eiYOAABThwAAeNrtXVt3ms4W73ntp2D52kUFBIT/SvtfxkSTJiZpNOll9WWEUadyMVxy6Rc4X/vMcB1UVIwV2mNfGmHY+8eefZ0bzGXv63/evHnT/e+bN0f/PpsG8wgd
+        F9nWhxr/nqsx0NJsHVnjD7W7QYdVaozrAUsHhm3BDzXLrjH/fnx7NHZYZLme45vQ8lht4ltTZugjQ2ct3xxC50MNP6jZ5gw/hRvMgDZlkY45qE1OVGVFEWrMyAEmfLKd
+        8A7mbIKftsMmaCR8BWmOnV4RyBWLboOvzBzowhwWHjIx6D7wmBOoMQLP8Pw/QvMfUWIEThBrH9++ZZgj1/YtndWBB4bAhczYsIfAYE3oObZlmwGyCcJMWNPWYQgU6Qi/
+        NLAsaGCGcq0eUsJScTAMSqCYBYP/HY3QM5uIw2WwkFjkQdPFTcSozXwrhryMonIcZmgB8h63F0lT3Jg0NKAH00vRxfynGd8nlx/HLyr6XG+dTPtPdefx4otydW9//vCh
+        RpOiibFjH2Xv4buPCD5RXYzfZmYAD7JDYE0/1GrLboVAiEbZDtRZQiESqlhj5n+5aGjgv0fAcCERcIZ5fQU2CjfwdWQzlLYsvMUMEC30cAus+ABzxM94tgm84AEiPNxV
+        aSPSpcQgPKRlGvILlGnaQWegVtwT5xYxKQ22NA89QvyuwPADxVqkgakQpaQQMA40bSxLEzwHYOKfKIBbXwKjnjy88PbpLTdfwIEQM1qW3qT0sb6okEeJbTpeguyonlHz
+        Fcov09qLxsyFbWGbNAoaQR6VyBhUvi6fXHvg8q47nHjvhnXOvUdPB2PYyBi4HGOoV1GbGssVgRGKKlQ+oUin+u2ra+9d3/42Rd2fV47SrgufHlsHnTo42GqZhJKnyY2i
+        iUY+ocgkzGvr/nhqSa3Tbr/3+f7d9JJXtINJHEyiYiYhUIrcCnry3CpoDEtJRGYAT4ez+s3VoH/XVS5HD99uLH42LTf15jNmwB+yjZ3oEU/5Q1wSFlSh+acj7ZnJU/nT
+        5cPshfvS/aRat36L561D4bZEe/hF7Wlu60QpHzrzPaYLkJX6z/fNJi9z0t7d6ALKboyyizuMubbq16NRApMvH98gg28wwdY1sQ2dkqTYbMpco3ykvfsYag+45OK9bfgm
+        FTPfK7LUkJXykV7GQC+RicjFuW7nKgCxnWCEI49ph4NmVVLM2zaVuE4WIR5SpPlCmh5VHIAZPIHalOGLVtE5VKJQ17m4QqOfHeMX1+1cg6snWX4HpuO/J9R5+I11/MY8
+        8BdQx/eIii1oTpEguU2YVJeGyRwjyFqSkZi6bc/W2M8OLGiNmS/A82Cibriz7dQHcdWB6CQQHWC5M9uFFZSjn4D0rQrimz3G+BYDtyjLfFVwOgnOW6jZjj6fZ1QGKLqh
+        RhGg4zE3touIX6he3xsu7YOYvodDXAVRwgzKU0svvdPzc441WQe5nRPM9lZrizyVS/QRhjLBRRoT1GtFK++VtOI6/PrhTD4xv42nguTJPcB1mvr3cueMuExywlW4Due5
+        jTOMObO553IdewUK8FM+Rnf6jK9ZwIiVpjq1zqWQVoy4tLWqVCn2GknZ7XuwUjWsSNewlapdpUztWiVoHTmG1kEGvsgzbWzt1Rqc6DSzGIV5jFWQo5LFWCnDUNM8Bhfv
+        x1/+TwZNMgTcOEdgEXH3bE6710WzV0kuV2qvj2B7wVUgau0Fz8aRaj/S2TQ67QXN5hFpL3C2iEL7wVU88uwH1+bRZj/KXSDC/A5AR/WN3Dt+evHy5gWsSA+F+xYWe7Gi
+        dfH5qFCd8oYxevj0ot49fHIvZidfzpr3X8tddSNkClWhwoWqvG2d2rETI7KdaZUStkEykjfAYmNukKdNEnyyWj5A13M0y0uGXzzHHsJ6m6yZr5IY9VnRYfq9wnNG6cDy
+        CDrQ0lJ4olgBgG4vHWAziBPrYWfw59UOZKqOeFsmHnSrlzL6Sa8360W7VmDRYc/lRKIwop+dwyv9ugdOuy1du2zJwLTPW3/PqrV4rw/wGc0g+4hGiFBq//PjxrHHWDMY
+        nA1B90fbNk3bin5cAbKSkjlPtkG5P7o+8oDDkAWwEm5s4VrF+5FI84dhP2Hyj/D9E3jEr2sgzGmIPBO40+AVwiu/h/cEUaxN3/DQzAgFF8pYrOMywiXWqMEUFEvm4y2d
+        7OfCt/3ZLPxr33PS0vZz0jdPyZTqRmuiSpgN6luJN3yxtOrhG5iznIlzoTIzaj1/aUleGRneGwWnLio+45d6zN0OpsV06TIr8ouhZ8auiU0cZsaPUc4raiEKqqjKTUGV
+        NvBir1H631N5LpPFzkpOmd4W1zJnLQsYL27hyjOXTJQ5WD9PZ/zDT/+cg9fAuRt8N/VLfnxYsfzXrXeXJEoRbgJS8XqWYhq1glCkU+KXp+HL3bHonXbRy+WUe7g1oD0+
+        zL7vOJWaT6Tuqzz5fpKgO3FeNltItVd8XxJ8Xyh9rg6+3tckf0LPVQJ285XyBQzZDMNghMga/z9ONQYkWbvAJGMhq93LiH5BS93PhN6G2r8XMNto/F6AFfRhvycpXmMC
+        r8yKm9yyTQlFDwjIoxLlL5fq2ctjW/38MPXPdXPwy/0ln3dbf9/WBqFqWxvk7YeR/pQ15RXfgoH69FAXM7CZcIvdYSH5X7OQ/I/Z5rCTFe9COSveVXrzXLRLtfO1YJjK
+        IRJFqdvjvu41Pk26d/LPiwvtciSevhsczkXacI37tnvNi05XVHNWNL2r2ZYHEJkj1cIpKTboM2Qg7yUZ80oPxluWCeLe9o1AgvqQQRamlR7/J8YE8GWNNHEToljoDrYb
+        x34Kr1H9O89hYrse1VGYzUJ/Cr99bnfuYiTxI8u22GU3FtcA0YuATnC3J2eOdM955fO4y53dwWvuufN1NJr2+tnxsnwrXmPBHaBhM31ZYcjnV+eD9cZMT+B6jp+x5Vw7
+        3tSGt7BfcaNU8RXGu5eKrd3q96nFNNCBdtlFZP54hMjJQkljEtTZGZmzPRRB4cvCdBxjOgauSw/b8FJpcuqlwyT0wR1NVVaaJUEapCux4NCg9akplyeotMzRVtdhe0Fz
+        naiS7WFnxnQc+EALSpQ5tSQlp6DhIDyPTG6UZn6djP3NAysLFG2A85gaktAQS1r0nzXCqkgrgXXsBCe7zAtMbezJay3PpHOz6CXZ5fxyvSad7CGSXYX78cOM76s+aH+f
+        8RN0Kp+ddu++1U3x5Ll1yPhWZHzKbhM+7pDwxaeFWPSSc9q5NxuqUA6mR9tYkYYKJQXDE9dbZtIJMlXlpZIc/LGbl41KTVGoVjLKSZxStVxUVHnlD4009AKvroP94gil
+        y7saw1u1cdMHz9OXnw9iTxx3zOPe0yHQHIYWynAIIHWgc9NKJQmpa+UMLEhcg99xlMGPO2QMlJgnOyb7FV3PgSAYHMXKSyCtGAJ9dRwoqcuJ618WBQRVLiuMD5xhThwo
+        a0GJ42bWU9Lbwbj3iiQpckljgSBxavhPBLTM6I2glNSB/XHi10Dpi25u3Vk6ferikOSWfuBAmnit3rW3n8wUgdQnBX9Tw5JiWQXG2a/E4uynvcehnSeBipKZKfa0CdSZ
+        NhgiCyZnorUm155uP96ZUzidqc3vut5E/N5mme6BxUh8sf3mFUgG5b8iF1x/YLbEqWpJ3lyLsbUd23VHQK/AGliQ7JhBpZ+wgc04kVBs0REioVkOJDevsPgz3OdRffmk
+        /VE9+j5g+LFAnJwb5PuEWvipHH245LOB0T0DOvHnCUk6P0LjeNlDdBc/kh6cTz3FGLY2DZdERN8AZG6gDgzKEwV3CRb4SF4t+ICJIhJXathe/GVGzx6PjewW99VcLpA2
+        PbGfrDWMuGaDYsSnjPhNGfWfyBkWDL+aEc+JKsVI2J6RsIZRg5MoRo3tGTXWMJJkuo/E7RmJaxgpfJNiJG3IiF9kJGUY8QvKQAtOptnQy2kSR5FaY2arGP7vsRZF33CP
+        KHhmE/dBPh/KJv42OrcBSzogm6w8i9bs+I5BfnlgTNaaY3sOfzljmNpF+Ct+MP4ZfQKVpSVUT0VUSGryGqkptBo0txXbFXz2CopNqKDYosOPVglMatDqrBQWWMSikKi4
+        rKgyh55sKLVwdVdGcOQUlTnR7ULhlNXya6q0y1YLy486XOQ1MhyA2cayiw43yQhvMHu98GhnmpyYGMTXdfFIaAh0POK3CbFzHNcEJkFSaP/K80U5XuECrR1/OnUVJ3rX
+        fcpPWMKPlvJcfhM1ANAALxjLBtlO2JkLeQ5BQKUw6QbdJWOheaTSZCakxmep8cWopRlLSE3YBTUhptbYBbVGTE3cBTUxpibtgpoUU5NXUcsU7wG5QF0zLicK/otGH3Le
+        EI8c42nuBI+wHZ4oKoVIlF3IWYmpqa+itugXIxt6nUkuOr+ILL892YyHi8gJG5A7qkduKvr52xasH4XV7JKCUawtjtyxoUs2giNzSWlMmMxdW1TNCBZL/HFKPzsQcBSJ
+        LWWVZiipl2bpJGvDUF8gv4nsg8a7qzeJ8oVlr6Ju9yqrs40Vr0KPOsz1XdLEtcDMndgePViRXAt6PfmVbxD1OSpH9Tlliy5vtFcioRo1DIZC05QwfTyRhiA1137ksr4F
+        WUVZe4bdFmQb3Nq9FduAbaxdv7cFVV5ZO0K/DdamvPZLbduQlYW1R9du019KY+22tm3Qqo21e7q3ISvJa4+62YJsSjV31c5WpiCv/SpOEicXnEc4LLowEhoOkGKegPjC
+        evgT84hqBGZkO6YJLDAmCJK9f6QRCD5vzQalIPAmTPQ7KhRtR8dZQzrMkC0ZIxJ0W2SNcazGISDwzPWPwRAuSk5dZLWJb00/vv0fVmF4VmF0YWQCAAAARE5TU2JpbHoW
+        AAAAEAAAAHjaY2JgYND19NM1dc/0AzIZABGlAic=
+        AG5vIHNvdW5kABAAAAA=
+      >
+      PRESETNAME "no sound"
+      FLOATPOS 0 0 0 0
+      FXID {7D9ED085-088C-4E84-87A1-40FE6343A8A0}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAAAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D+amZmZmZnpPwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
+        8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AKYCAACsAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {25640003-B152-4F02-8AE2-154F3C3CCAB0}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 13.71428571428571
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.00714285714286 0 1 0 0 0
+      FADEOUT 1 0.00714285714286 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {44B21D19-FA3F-4D69-A68D-61A4A50B5DFB}
+      IID 3
+      NAME 01-YNGW-240511_1639.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.4 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 21653100 R
+      GUID {DDE1BA78-513E-4DD6-97F5-5668014C6926}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "Media\01-YNGW-240511_1639.wav"
+      >
+      TAKE
+      NAME 01-YNGW-240511_1639.wav
+      TAKEVOLPAN 0 1 -1
+      SOFFS 19.19997732426304
+      PLAYRATE 1.4 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 30406010 R
+      GUID {87489895-FB1C-44D1-9D80-8A5E96F9A9FA}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "Media\01-YNGW-240511_1639.wav"
+      >
+      TAKE
+      NAME 01-YNGW-240511_1639.wav
+      TAKEVOLPAN 0 1 -1
+      SOFFS 38.4
+      PLAYRATE 1.4 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 24768968 R
+      GUID {7DBE5DE1-2705-456D-9143-3F358B96692B}
+      RECPASS 3
+      <SOURCE WAVE
+        FILE "Media\01-YNGW-240511_1639.wav"
+      >
+      TAKE
+      NAME 01-YNGW-240511_1639.wav
+      TAKEVOLPAN 0 1 -1
+      SOFFS 57.59997732426304
+      PLAYRATE 1.4 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 24098074 R
+      GUID {72C29627-6B16-4FA5-ABE6-F3C2630A7A62}
+      RECPASS 4
+      <SOURCE WAVE
+        FILE "Media\01-YNGW-240511_1639.wav"
+      >
+      TAKE
+      NAME 01-YNGW-240511_1639.wav
+      TAKEVOLPAN 0 1 -1
+      SOFFS 76.8
+      PLAYRATE 1.4 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 28847445 R
+      GUID {5B8F960D-3A60-4CB8-98BE-EAE0D53424CC}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "Media\01-YNGW-240511_1639.wav"
+      >
+      TAKE
+      NAME 01-YNGW-240511_1639.wav
+      TAKEVOLPAN 0 1 -1
+      SOFFS 96
+      PLAYRATE 1.4 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 23653572 R
+      GUID {BB786B3E-BC38-4FAB-96B3-C378086DB181}
+      RECPASS 6
+      <SOURCE WAVE
+        FILE "Media\01-YNGW-240511_1639.wav"
+      >
+      TAKE
+      NAME 01-YNGW-240511_1639.wav
+      TAKEVOLPAN 0 1 -1
+      SOFFS 115.2
+      PLAYRATE 1.4 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 26143906 R
+      GUID {D05AF420-9570-4DF6-88C8-102CA3613A4E}
+      RECPASS 7
+      <SOURCE WAVE
+        FILE "Media\01-YNGW-240511_1639.wav"
+      >
+      TAKE
+      NAME 01-YNGW-240511_1639.wav
+      TAKEVOLPAN 0 1 -1
+      SOFFS 134.39997732426303
+      PLAYRATE 1.4 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 17724349 R
+      GUID {01DEB66B-BBC4-4C64-8E89-5F829DDE7B32}
+      RECPASS 8
+      <SOURCE WAVE
+        FILE "Media\01-YNGW-240511_1639.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.2
+      SNAPOFFS 0
+      LENGTH 386.65714285714284
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90D4F0D7-52AE-49C5-A12A-576822B34313}
+      IID 4
+      NAME 01-YNGW-240511_1643.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D989DCB5-F218-4446-8544-580CB9B8171F}
+      RECPASS 9
+      <SOURCE WAVE
+        FILE "Media\01-YNGW-240511_1643.wav"
+      >
+    >
+    <ITEM
+      POSITION 405.85714285714283
+      SNAPOFFS 0
+      LENGTH 107.88743764172335
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {747F7DD7-FCD6-4B77-99CA-DA21357F416C}
+      IID 4
+      NAME 01-YNGW-240511_1643.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 386.65714285714284
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1824CE1D-DB8E-4054-8609-7D5AFF406A33}
+      RECPASS 9
+      <SOURCE WAVE
+        FILE "Media\01-YNGW-240511_1643.wav"
+      >
+    >
+  >
+  <TRACK {E5FEB341-C128-42CD-8CE2-83182CEA7219}
+    NAME "Variation 05"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.67748946805408 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E5FEB341-C128-42CD-8CE2-83182CEA7219}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 707 135 506 258
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: Guitar Rig 5 (x86) (Native Instruments GmbH)" "Guitar Rig 5.dll" 0 "" 1315522357<5653544E694735677569746172726967> ""
+        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
+        ABGlAic=
+        AExvdWQgTWl4ABAAAAA=
+      >
+      PRESETNAME "Loud Mix"
+      FLOATPOS 0 0 0 0
+      FXID {2A05E657-C26D-4194-8111-E7C0151FB37B}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 107.88743764172338
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {86027D64-457A-4160-BC62-EF81222622CE}
+      IID 4
+      NAME 01-YNGW-240511_1643.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 386.65714285714284
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C58AC15B-FDCD-4D80-B1D0-6AB4A375A493}
+      RECPASS 9
+      <SOURCE WAVE
+        FILE "Media\01-YNGW-240511_1643.wav"
+      >
+    >
+  >
+  <TRACK {98D4967A-B7D3-4556-8038-FBBF1654A96C}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {98D4967A-B7D3-4556-8038-FBBF1654A96C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 6.85714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CFA12AAC-850B-40B5-BA6D-EEBAF7377098}
+      IID 1
+      NAME 02-MIDI
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6903F9A1-9939-4759-868D-7644E8E43AE9}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {AE15A265-0F32-44CF-A0E4-E534ED2038E6}
+        E 0 90 39 7f
+        E 0 90 22 7f
+        E 120 80 39 00
+        E 0 80 22 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 45 7f
+        E 0 90 7d 7f
+        E 120 80 3e 00
+        E 0 80 45 00
+        E 0 80 7d 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 22 7f
+        E 120 80 3e 00
+        E 0 80 22 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 45 7f
+        E 0 90 7d 7f
+        E 120 80 3e 00
+        E 0 80 45 00
+        E 0 80 7d 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 22 7f
+        E 120 80 3e 00
+        E 0 80 22 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 45 7f
+        E 0 90 7d 7f
+        E 120 80 3e 00
+        E 0 80 45 00
+        E 0 80 7d 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 22 7f
+        E 120 80 3e 00
+        E 0 80 22 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 45 7f
+        E 0 90 7d 7f
+        E 120 80 3e 00
+        E 0 80 45 00
+        E 0 80 7d 00
+        e 360 90 3c 7f
+        e 120 80 3c 00
+        E 360 90 3e 7f
+        E 0 90 22 7f
+        E 120 80 3e 00
+        E 0 80 22 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 45 7f
+        E 0 90 7d 7f
+        E 120 80 3e 00
+        E 0 80 45 00
+        E 0 80 7d 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 22 7f
+        E 120 80 3e 00
+        E 0 80 22 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 45 7f
+        E 0 90 7d 7f
+        E 120 80 3e 00
+        E 0 80 45 00
+        E 0 80 7d 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 22 7f
+        E 120 80 3e 00
+        E 0 80 22 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 45 7f
+        E 120 80 3e 00
+        E 0 80 45 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 22 7f
+        E 120 80 3e 00
+        E 0 80 22 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 90 3e 7f
+        E 0 90 45 7f
+        E 120 80 3e 00
+        E 0 80 45 00
+        E 360 90 3e 7f
+        E 120 80 3e 00
+        E 360 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {757EB14F-575A-4187-8D75-85E8A8E021DF}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 10
+        VELLANE -1 100 0 0 1
+        CFGEDITVIEW 0 0.132321 21 6 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 594 402 1683 1074 0 0 0 0 0 0 0 1 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {820C044C-30B5-4F46-A745-CFEFC0AED8D2}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {820C044C-30B5-4F46-A745-CFEFC0AED8D2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 13.71428571428571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50513FD0-950E-4B0A-9ECE-461A13A84FD9}
+      IID 2
+      NAME "EZdrummer Libraries/EZdrummer 3/Metal/Straight 4/4/Fast 220 BPM/Verse/Variation 05 - Verse 05.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52EE2822-55BF-4B27-8294-BA3B046D0C2E}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {702AC2A9-CD80-475A-9CA4-F6E68650C778}
+        <X 0 0 0 0 3 "EZdrummer Libraries/EZdrummer 3/Metal/Straight 4/4/Fast 220 BPM/Verse/Variation 05"
+          /wNFWmRydW1tZXIgTGlicmFyaWVzL0VaZHJ1bW1lciAzL01ldGFsLw==
+          U3RyYWlnaHQgNC80L0Zhc3QgMjIwIEJQTS9WZXJzZS9WYXJpYXRpbw==
+          biAwNQ==
+        >
+        E 0 90 24 7a
+        E 5 90 31 7f
+        E 115 80 24 00
+        E 5 80 31 00
+        E 122 90 26 61
+        E 120 80 26 00
+        E 122 90 24 6e
+        E 10 90 3c 45
+        E 110 80 24 00
+        E 10 80 3c 00
+        E 97 90 26 67
+        E 120 80 26 00
+        E 134 90 24 72
+        E 4 90 3c 75
+        E 116 80 24 00
+        E 4 80 3c 00
+        E 118 90 26 66
+        E 120 80 26 00
+        E 108 90 24 6c
+        E 3 90 3c 36
+        E 117 80 24 00
+        E 3 80 3c 00
+        E 121 90 26 68
+        E 120 80 26 00
+        E 114 90 24 73
+        E 9 90 3c 76
+        E 111 80 24 00
+        E 9 80 3c 00
+        E 122 90 26 64
+        E 120 80 26 00
+        E 112 90 24 6a
+        E 9 90 3c 34
+        E 111 80 24 00
+        E 9 80 3c 00
+        E 105 90 26 6b
+        E 120 80 26 00
+        E 128 90 24 70
+        E 3 90 3c 74
+        E 117 80 24 00
+        E 3 80 3c 00
+        E 121 90 26 6a
+        E 120 80 26 00
+        E 106 90 24 6b
+        E 15 90 3c 32
+        E 105 80 24 00
+        E 15 80 3c 00
+        E 105 90 26 67
+        E 120 80 26 00
+        E 134 90 24 73
+        E 7 90 3c 78
+        E 113 80 24 00
+        E 7 80 3c 00
+        E 103 90 26 6c
+        E 120 80 26 00
+        E 124 90 24 69
+        E 9 90 3c 3c
+        E 111 80 24 00
+        E 9 80 3c 00
+        E 106 90 26 60
+        E 120 80 26 00
+        E 123 90 24 71
+        E 11 90 3c 42
+        E 109 80 24 00
+        E 11 80 3c 00
+        E 106 90 26 68
+        E 120 80 26 00
+        E 127 90 24 6b
+        E 120 80 24 00
+        E 117 90 26 64
+        E 120 80 26 00
+        E 131 90 24 74
+        E 6 90 31 6c
+        E 114 80 24 00
+        E 6 80 31 00
+        E 102 90 26 69
+        E 120 80 26 00
+        E 117 90 24 6b
+        E 120 80 24 00
+        E 122 90 26 67
+        E 120 80 26 00
+        E 128 90 24 71
+        E 5 90 39 7f
+        E 115 80 24 00
+        E 5 80 39 00
+        E 105 90 26 6a
+        E 120 80 26 00
+        E 124 90 24 6e
+        E 120 80 24 00
+        E 118 90 26 64
+        E 120 80 26 00
+        E 114 90 24 73
+        E 11 90 31 7f
+        E 109 80 24 00
+        E 11 80 31 00
+        E 124 90 26 69
+        E 120 80 26 00
+        E 115 90 24 6b
+        E 120 80 24 00
+        E 115 90 26 64
+        E 120 80 26 00
+        E 127 90 24 70
+        E 30 90 3c 74
+        E 90 80 24 00
+        E 30 80 3c 00
+        E 90 90 26 67
+        E 120 80 26 00
+        E 118 90 24 6a
+        E 18 90 3c 53
+        E 102 80 24 00
+        E 18 80 3c 00
+        E 98 90 26 67
+        E 120 80 26 00
+        E 121 90 24 72
+        E 9 90 3c 76
+        E 111 80 24 00
+        E 9 80 3c 00
+        E 112 90 26 69
+        E 120 80 26 00
+        E 118 90 24 6e
+        E 3 90 3c 42
+        E 117 80 24 00
+        E 3 80 3c 00
+        E 110 90 26 65
+        E 120 80 26 00
+        E 129 90 24 73
+        E 10 90 3c 77
+        E 110 80 24 00
+        E 10 80 3c 00
+        E 104 90 26 5e
+        E 120 80 26 00
+        E 128 90 24 6c
+        E 120 80 24 00
+        E 116 90 26 67
+        E 120 80 26 00
+        E 130 90 24 73
+        E 7 90 39 7f
+        E 113 80 24 00
+        E 7 80 39 00
+        E 97 90 26 64
+        E 120 80 26 00
+        E 140 90 24 69
+        E 120 80 24 00
+        E 111 90 26 6e
+        E 120 80 26 00
+        E 115 90 24 6f
+        E 8 90 39 7f
+        E 112 80 24 00
+        E 8 80 39 00
+        E 106 90 26 69
+        E 120 80 26 00
+        E 123 90 24 6b
+        E 120 80 24 00
+        E 121 90 26 73
+        E 120 80 26 00
+        E 126 90 24 70
+        E 10 90 26 57
+        E 110 80 24 00
+        E 10 80 26 00
+        E 115 90 26 64
+        E 120 80 26 00
+        E 110 90 24 66
+        E 4 90 26 72
+        E 116 80 24 00
+        E 4 80 26 00
+        E 106 90 26 62
+        E 120 80 26 00
+        E 143 90 24 6f
+        E 18 90 30 69
+        E 102 80 24 00
+        E 18 80 30 00
+        E 90 90 30 59
+        E 120 80 30 00
+        E 126 90 24 65
+        E 0 90 2d 71
+        E 120 80 24 00
+        E 0 80 2d 00
+        E 118 90 2d 68
+        E 120 80 2d 00
+        E 120 90 24 6b
+        E 17 90 31 7f
+        E 103 80 24 00
+        E 17 80 31 00
+        E 92 90 26 4b
+        E 120 80 26 00
+        E 129 90 24 65
+        E 8 90 3c 39
+        E 112 80 24 00
+        E 8 80 3c 00
+        E 125 90 26 69
+        E 120 80 26 00
+        E 114 90 3c 75
+        E 7 90 24 70
+        E 113 80 3c 00
+        E 7 80 24 00
+        E 111 90 26 6f
+        E 120 80 26 00
+        E 115 90 3c 3f
+        E 3 90 24 6a
+        E 117 80 3c 00
+        E 3 80 24 00
+        E 93 90 26 61
+        E 120 80 26 00
+        E 136 90 3c 73
+        E 19 90 24 72
+        E 101 80 3c 00
+        E 19 80 24 00
+        E 118 90 26 68
+        E 120 80 26 00
+        E 110 90 3c 43
+        E 8 90 24 6c
+        E 112 80 3c 00
+        E 8 80 24 00
+        E 129 90 26 64
+        E 120 80 26 00
+        E 103 90 3c 71
+        E 4 90 24 6d
+        E 116 80 3c 00
+        E 4 80 24 00
+        E 124 90 26 67
+        E 120 80 26 00
+        E 121 90 24 6b
+        E 15 90 3c 34
+        E 105 80 24 00
+        E 15 80 3c 00
+        E 95 90 26 64
+        E 120 80 26 00
+        E 128 90 24 71
+        E 1 90 3c 74
+        E 119 80 24 00
+        E 1 80 3c 00
+        E 115 90 26 62
+        E 120 80 26 00
+        E 111 90 24 69
+        E 16 90 3c 46
+        E 104 80 24 00
+        E 16 80 3c 00
+        E 117 90 26 66
+        E 120 80 26 00
+        E 121 90 24 6f
+        E 2 90 3c 75
+        E 118 80 24 00
+        E 2 80 3c 00
+        E 119 90 26 60
+        E 120 80 26 00
+        E 115 90 24 67
+        E 120 80 24 00
+        E 123 90 26 6b
+        E 120 80 26 00
+        E 119 90 24 70
+        E 15 90 31 7f
+        E 105 80 24 00
+        E 15 80 31 00
+        E 101 90 26 64
+        E 120 80 26 00
+        E 114 90 24 6c
+        E 120 80 24 00
+        E 123 90 26 69
+        E 120 80 26 00
+        E 125 90 24 6e
+        E 8 90 39 7f
+        E 112 80 24 00
+        E 8 80 39 00
+        E 116 90 26 66
+        E 120 80 26 00
+        E 134 90 24 69
+        E 120 80 24 00
+        E 103 90 26 6b
+        E 120 80 26 00
+        E 116 90 24 73
+        E 18 90 31 7f
+        E 102 80 24 00
+        E 18 80 31 00
+        E 95 90 26 6d
+        E 120 80 26 00
+        E 126 90 24 68
+        E 120 80 24 00
+        E 125 90 26 63
+        E 120 80 26 00
+        E 119 90 24 6f
+        E 11 90 3c 75
+        E 109 80 24 00
+        E 11 80 3c 00
+        E 122 90 26 66
+        E 120 80 26 00
+        E 105 90 24 6c
+        E 0 90 3c 4e
+        E 120 80 24 00
+        E 0 80 3c 00
+        E 119 90 26 60
+        E 120 80 26 00
+        E 119 90 24 74
+        E 13 90 3c 78
+        E 107 80 24 00
+        E 13 80 3c 00
+        E 116 90 26 6b
+        E 120 80 26 00
+        E 113 90 24 69
+        E 14 90 3c 3c
+        E 106 80 24 00
+        E 14 80 3c 00
+        E 108 90 26 66
+        E 120 80 26 00
+        E 124 90 3c 71
+        E 6 90 24 71
+        E 114 80 3c 00
+        E 6 80 24 00
+        E 110 90 26 6a
+        E 120 80 26 00
+        E 108 90 24 6d
+        E 120 80 24 00
+        E 138 90 26 52
+        E 120 80 26 00
+        E 110 90 24 77
+        E 11 90 26 6f
+        E 109 80 24 00
+        E 11 80 26 00
+        E 130 90 2f 64
+        E 120 80 2f 00
+        E 95 90 24 6c
+        E 12 90 2f 59
+        E 108 80 24 00
+        E 12 80 2f 00
+        E 116 90 2f 6e
+        E 120 80 2f 00
+        E 112 90 24 75
+        E 40 90 26 7c
+        E 80 80 24 00
+        E 40 80 26 00
+        E 99 90 26 57
+        E 120 80 26 00
+        E 113 90 26 72
+        E 6 90 24 6b
+        E 114 80 26 00
+        E 6 80 24 00
+        E 114 90 26 5c
+        E 120 80 26 00
+        E 114 90 24 77
+        E 7 90 2d 79
+        E 113 80 24 00
+        E 7 80 2d 00
+        E 103 90 2d 52
+        E 120 80 2d 00
+        E 135 90 24 6f
+        E 15 90 2d 66
+        E 105 80 24 00
+        E 15 80 2d 00
+        E 103 90 2d 57
+        E 120 80 2d 00
+        E 113 90 24 7a
+        E 16 90 26 75
+        E 104 80 24 00
+        E 16 80 26 00
+        E 105 90 26 53
+        E 120 80 26 00
+        E 132 90 24 76
+        E 12 90 26 69
+        E 108 80 24 00
+        E 12 80 26 00
+        E 100 90 26 5a
+        E 120 80 26 00
+        E 118 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {1D6988A1-8CC7-41FE-A2A3-3B2133C6B680}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 14
+        VELLANE -1 100 0 0 1
+      >
+    >
+  >
+>
